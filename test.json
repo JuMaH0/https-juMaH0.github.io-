@@ -1,16 +1,12 @@
 {
-    "emergency_call":
-    [{
-
-            "caller_name": [
-                "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
-            ],
-    "mission_0": {
+    "caller_names": [
+        "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
+    ],
+    "0": {
         "mission_text": [
             "Es stinkt nach brennendem Abfall!",
             "Hier kokelt ein Mülleimer vor sich hin.",
             "Flammen schlagen aus dem Mülleimer"
             ]
         }
-    ]
 }
