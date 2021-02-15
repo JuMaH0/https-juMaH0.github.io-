@@ -1,10 +1,9 @@
 {
-    "emergency_call":
-    [{
+
 
             "caller_name": [
                 "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
             ]
-        }
+        
     ]
 }
