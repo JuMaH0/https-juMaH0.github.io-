@@ -1,11 +1,14 @@
 {
-    "caller_names": [
-        "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
-    ]
-    
-	"batter":
-				[
-					{ "id": "1001", "type": "Regular" }
-					]
+    "Script": "EmergencyCall",
+    "Game": "Leistellenspiel",
+    "Author": "JuMaHo",
+    {
+        "Caller":{
+		"caller_names": [
+            "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
+        ]},
 
+        
+
+    }
 }
