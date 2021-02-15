@@ -2,8 +2,9 @@
     "caller_names": [
         "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
     ],
-    "mission0":  [
-            "Es stinkt nach brennendem Abfall!",
+    "missions":  [
+	"id": "0",
+           "text": "Es stinkt nach brennendem Abfall!",
             "Hier kokelt ein Mülleimer vor sich hin.",
             "Flammen schlagen aus dem Mülleimer"
             ]
