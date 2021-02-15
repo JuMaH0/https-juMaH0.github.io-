@@ -2,12 +2,17 @@
     "script": "EmergencyCall",
     "game": "Leistellenspiel",
     "author": "JuMaHo",
-    
-        "caller":{
-		"caller_names": [
+
+    "caller": {
+        "caller_names": [
             "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
-        ]}
+        ]
+    },
+
+    "mission": {
+        "mission_id": "0",
+        "mission_text": "Es stinkt nach brennendem Abfall!",
+						"Hier kokelt ein Mülleimer vor sich hin.",
+						"Flammen schlagen aus dem Mülleimer"
+    }
 }
-
-
-
