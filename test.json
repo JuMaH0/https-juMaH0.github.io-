@@ -1,12 +1,31 @@
 {
-    "caller_names": [
-        "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
-    ],
-    "0": {
-        "mission_text": [
-            "Es stinkt nach brennendem Abfall!",
-            "Hier kokelt ein Mülleimer vor sich hin.",
-            "Flammen schlagen aus dem Mülleimer""
-            ]
-        }
+    "books":
+              [
+                {
+                    "title": "Professional JavaScript",
+                    "authors": [
+                        "Nicholas C. Zakas"
+                    ],
+                    "edition": 3,
+                    "year": 2011
+                },
+                {
+                    "title": "Professional JavaScript",
+                    "authors": [
+                        "Nicholas C.Zakas"
+                    ],
+                    "edition": 2,
+                    "year": 2009
+                },
+                {
+                    "title": "Professional Ajax",
+                    "authors": [
+                        "Nicholas C. Zakas",
+                        "Jeremy McPeak",
+                        "Joe Fawcett"
+                    ],
+                    "edition": 2,
+                    "year": 2008
+                }
+              ]
 }
