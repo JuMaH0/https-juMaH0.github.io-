@@ -14,6 +14,11 @@
         "mission_text":[ "Es stinkt nach brennendem Abfall!",
 						"Hier kokelt ein Mülleimer vor sich hin.",
 						"Flammen schlagen aus dem Mülleimer"
+						],
+		"mission_id": "1",
+        "mission_text":[ "Es stinkt nach brennendem Abfall!",
+						"Hier kokelt ein Mülleimer vor sich hin.",
+						"Flammen schlagen aus dem Mülleimer"
 						]
-    }
+    },
 }
