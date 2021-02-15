@@ -2,7 +2,7 @@
     "script": "EmergencyCall",
     "game": "Leistellenspiel",
     "author": "JuMaHo",
-    {
+    
         "caller":{
 		"caller_names": [
             "Meier", "Müller", "Schmitt", "Wagner", "Richter", "Schneider", "Werner", "Jung"
@@ -11,4 +11,3 @@
         
 
     }
-}
