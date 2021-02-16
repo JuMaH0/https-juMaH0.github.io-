@@ -7,10 +7,7 @@
     },
     "mission": [{
             "mission_id": "0",
-            "mission_text": ["Es stinkt nach brennendem Abfall!", "Hier kokelt ein Mülleimer vor sich hin.", "Flammen schlagen aus einem Mülleimer!"]
-        }, {
-            "mission_id": "29",
-            "mission_text": ["Hüpf,Hüpf", "mein Kopp", "Ogott,ogott"]
+            "mission_text": ["Es stinkt nach brennendem Abfall!", "Hier kokelt ein Mülleimer vor sich hin, Sie sollte jemanden vorbei schicken!", "Flammen schlagen aus einem Mülleimer!"]
         }, {
             "mission_id": "8",
             "mission_text": ["hier brennt Speermüll, schicken Sie schnell die Feuerwehr!", "der Speermüll vor meiner Haustür brennt!", "in unserer Straße ist alles voller Rauch!"]
