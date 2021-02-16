@@ -14,6 +14,9 @@
         }, {
             "mission_id": "411",
             "mission_text": ["es ist gerade ein Heißluftballon in die Oberleitung gestürtzt, kommen Sie schnell!", "in der Stromleitung hängt ein Heißluftballon!", "es ist gerade ein Heißluftballon abgestürtzt und hängt nun in der Oberleitung!"]
+        }, {
+            "mission_id": "463",
+            "mission_text": ["in der Bankfiliale gab es gerade einen mächtigen Knall, das sollte sich jemand ansehen!", "ich glaube da hat jemand den Geldautomaten gesprengt, schicken Sie schnell die Polizei!", "es gab eine Explosion und nun kommt weißer Rauch aus der Bank!"]
         }
     ]
 }
