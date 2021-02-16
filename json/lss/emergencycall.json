@@ -12,6 +12,9 @@
             "mission_id": "8",
             "mission_text": ["hier brennt Speermüll, schicken Sie schnell die Feuerwehr!", "der Speermüll vor meiner Haustür brennt!", "in unserer Straße ist alles voller Rauch!"]
         }, {
+            "mission_id": "45",
+            "mission_text": ["meine Nase blutet und das hört einfach nicht mehr auf, können Sie bitten jemanden vorbei schicken?", "die Nase meines Mannes blutet ununterbrochen!", "Meine Tochter ist beim spielen auf den Kopf gefallen, jetzt hört ihre Nase einfach nicht mehr auf zu bluten, bitte schicken Sie Hilfe!"]
+        }, {
             "mission_id": "144",
             "mission_text": ["bitte kommen Sie schnell, unsere Hecke steht in Flammen!", "ich habe im Garten Laub vebrannt, jetzt brennt die Hecke Lichterloh, beeilen Sie sich!", "das Ars**** von Nachbar hat seinen Müll im Garten verbrannt und jetzt steht hier alles in Flammen, kommen Sie sofort!"]
         }, {
