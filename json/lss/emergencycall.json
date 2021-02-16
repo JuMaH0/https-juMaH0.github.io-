@@ -17,6 +17,10 @@
         }, {
             "mission_id": "463",
             "mission_text": ["in der Bankfiliale gab es gerade einen mächtigen Knall, das sollte sich jemand ansehen!", "ich glaube da hat jemand den Geldautomaten gesprengt, schicken Sie schnell die Polizei!", "es gab eine Explosion und nun kommt weißer Rauch aus der Bank!"]
+        }, {
+            "mission_id": "144",
+            "mission_text": ["bitte kommen Sie schnell, unsere Hecke steht in Flammen!", "ich habe im Garten Laub vebrannt, jetzt brennt die Hecke Lichterloh, beeilen Sie sich!", "das Arschloch von Nachbar hat seinen Müll im Garten verbrannt und jetzt steht hier alles in Flammen, kommen Sie sofort!"]
         }
+		
     ]
 }
