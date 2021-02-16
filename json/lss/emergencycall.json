@@ -11,6 +11,9 @@
         }, {
             "mission_id": "8",
             "mission_text": ["hier brennt Speermüll, schicken Sie schnell die Feuerwehr!", "der Speermüll vor meiner Haustür brennt!", "in unserer Straße ist alles voller Rauch!"]
+        }, {
+            "mission_id": "411",
+            "mission_text": ["es ist gerade ein Heißluftballon in die Oberleitung gestürtzt, kommen Sie schnell!", "in der Stromleitung hängt ein Heißluftballon!", "es ist gerade ein Heißluftballon abgestürtzt und hängt nun in der Oberleitung!"]
         }
     ]
 }
