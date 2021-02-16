@@ -18,6 +18,9 @@
             "mission_id": "144",
             "mission_text": ["bitte kommen Sie schnell, unsere Hecke steht in Flammen!", "ich habe im Garten Laub vebrannt, jetzt brennt die Hecke Lichterloh, beeilen Sie sich!", "das Ars**** von Nachbar hat seinen Müll im Garten verbrannt und jetzt steht hier alles in Flammen, kommen Sie sofort!"]
         }, {
+            "mission_id": "301",
+            "mission_text": ["auf der Straße läuft ein Hund herum, es wäre schon fast zu einem Unfall gekommen, können Sie jemanden schicken?", "Ich hätte gerade fast einen Hund überfahren, sie sollten sich das mal anschauen!"]
+        }, {
             "mission_id": "411",
             "mission_text": ["es ist gerade ein Heißluftballon in die Oberleitung gestürtzt, kommen Sie schnell!", "in der Stromleitung hängt ein Heißluftballon!", "es ist gerade ein Heißluftballon abgestürtzt und hängt nun in der Oberleitung!"]
         }, {
