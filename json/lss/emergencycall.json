@@ -10,7 +10,7 @@
             "mission_text": ["Es stinkt nach brennendem Abfall!", "Hier kokelt ein Mülleimer vor sich hin, Sie sollte jemanden vorbei schicken!", "Flammen schlagen aus einem Mülleimer!"]
         }, {
             "mission_id": "8",
-            "mission_text": ["hier brennt Speermüll, schicken Sie schnell die Feuerwehr!", "der Speermüll vor meiner Haustür brennt!", "in unserer Straße ist alles voller Rauch!"]
+            "mission_text": ["hier brennt Sperrmüll, schicken Sie schnell die Feuerwehr!", "der Sperrmüll vor meiner Haustür brennt!", "in unserer Straße ist alles voller Rauch!"]
         }, {
             "mission_id": "29",
             "mission_text": ["wir brauchen schnell die Feuerwehr, bei Wartungsarbeiten an einer Maschine hat sich Öl entzündet, jetzt steht die Maschine in Flammen.", "wir haben Schweißarbeiten durchgeführt, als plötzlich eine der hier stehenden Maschinen in Flammen aufging. Ich hab garnix gemacht!"]
