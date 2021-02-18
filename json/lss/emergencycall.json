@@ -24,6 +24,9 @@
             "mission_id": "151",
             "mission_text": ["ich wurde gerade ausgeraubt, mein Handy, Geldbeutel ... alles weg, bitte kommen Sie schnell!", "ich habe gerade beobachtet wie eine junge Frau ausgeraubt wurde, schicken Sie schnell eine Streife!", "hier wird jemand mit dem Messer bedroht, wir brauchen schnell Hilfe!"]
         }, {
+            "mission_id": "164",
+            "mission_text": ["Sie müssen schnell kommen, mein Kind blutet nach einem Sturz stark am Kopf!"]
+        }, {
             "mission_id": "301",
             "mission_text": ["auf der Straße läuft ein Hund herum, es wäre schon fast zu einem Unfall gekommen, können Sie jemanden schicken?", "Ich hätte gerade fast einen Hund überfahren, sie sollten sich das mal anschauen!"]
         }, {
