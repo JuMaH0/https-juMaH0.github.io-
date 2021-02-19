@@ -70,12 +70,12 @@ $("body").prepend(`
 </div>`);
 
 $("body").on("click", "#saveemc", function () {
-       var save = {};
+       
 	   
         var keyword = document.getElementById('keyword').value;
-        save.caller = $('#caller')[0];
-        save.lucation = $('#location')[0];
-        save.freetext = $('#freetext')[0];
+        var caller = ;
+        var lucation = ;
+        var freetext = ;
         
 		alert(keyword)
         
