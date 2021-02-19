@@ -24,6 +24,9 @@
             "mission_id": "108",
             "mission_text": ["schicken Sie schnell einen RTW, ich glaub das Baby kommt!"]
         }, {
+            "mission_id": "122",
+            "mission_text": ["hier gab es gerade einen Unfall mit einem Motorrad!"]
+        }, {
             "mission_id": "140",
             "mission_text": ["schicken Sie die Feuerwehr, hier brennt eine ca. 10x10m große Wiese!"]
         }, {
