@@ -99,7 +99,7 @@ $("body").on("click", "#saveemc", function () {
 		
                 for (var isem = 0; isem < emc.length; isem++) {
                     if (openmission === emc[isem].mission_id) {
-                        emc.splice([e], 1);
+                        emc.splice([isem], 1);
                         localStorage.setItem('emc', JSON.stringify(emc));
                     }
                 }
