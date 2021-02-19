@@ -70,13 +70,13 @@ $("body").prepend(`
 </div>`);
 
 $("body").on("click", "#saveemc", function () {
-        var save = {};
-        save.keyword = $('#keyword')[0];
-        save.caller = $('#caller')[0];
-        save.lucation = $('#location')[0];
-        save.freetext = $('#freetext')[0];
+       
+        keyword = $('#keyword');
+        caller = $('#caller');
+        lucation = $('#location');
+        freetext = $('#freetext');
         
-		alert(save.keywors)
+		alert(.keyword)
         
         alert('Einsatz wird angelegt!');
         window.location.reload();
