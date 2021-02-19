@@ -1,6 +1,6 @@
 $("body").prepend(`
 
-<div class="modal fade" id="missionshModal" tabindex="-1" role="dialog" aria-labelledby="missionshModalLabel" aria-hidden="true" style="z-index: 9999;">
+<div class="modal fade" id="emcModal" tabindex="-1" role="dialog" aria-labelledby="emcModalLabel" aria-hidden="true" style="z-index: 9999;">
 
   <div class="modal-dialog modal-dialog-centered" role="document">
 
@@ -25,26 +25,26 @@ $("body").prepend(`
   <div class="form-group row">
     
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-sm" id="colFormLabelSm" placeholder="Stichwort">
+      <input type="text" class="form-control form-control-sm" id="keyword" placeholder="Stichwort">
     </div>
   </div>
   <div class="form-group row">
     
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="colFormLabel" placeholder="Melder">
+      <input type="text" class="form-control" id="caller" placeholder="Melder">
     </div>
   </div>
   <div class="form-group row">
     
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="Ort">
+      <input type="text" class="form-control form-control-lg" id="location" placeholder="Ort">
     </div>
 	</div>
 	
 	<div class="form-group row">
     
     <div class="col-sm-10">
-       <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"  placeholder="Freitext"></textarea>
+       <textarea class="form-control" id="freetext" rows="3"  placeholder="Freitext"></textarea>
     </div>
   </div>
 </form>
@@ -57,7 +57,7 @@ $("body").prepend(`
 
 
 
-            <button type="submit" id="savemissionsh" class="btn btn-success" >Speichern</button>
+            <button type="submit" id="saveemc" class="btn btn-success" >Speichern</button>
 
             <button type="button" class="btn btn-danger" data-dismiss="modal">Abbrechen</button>
 
@@ -68,5 +68,18 @@ $("body").prepend(`
     </form>
 
 </div>`);
+
+$("body").on("click", "#saveemc", function () {
+        var save = {};
+        save.keyword = $('#keyword')[0];
+        save.caller = $('#caller')[0];
+        save.lucation = $('#location')[0];
+        save.freetext = $('#freetext')[0];
+        
+		alert(save.keywors)
+        
+        alert('Einsatz wird angelegt!');
+        window.location.reload();
+    });
 
 
