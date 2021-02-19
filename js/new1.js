@@ -106,7 +106,7 @@ $("body").on("click", "#saveemc", function () {
             
 		
 			
-		add_new_emc(openmission, caller, emc_text, keyword, lucation, freetext);
+		add_new_emc(openmission, caller, keyword, lucation, freetext);
         
 	
         
