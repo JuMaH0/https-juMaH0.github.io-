@@ -96,14 +96,14 @@ $("body").on("click", "#saveemc", function () {
 		var openmission = window.location.pathname.replace(/\D+/g, '');
 		var address = $('#mission_general_info').children('small').text().split('|')[0].trim();
 		
-		if (checkemc != null) {
+		
                 for (var isem = 0; isem < checkemc.length; isem++) {
                     if (openmission === checkemc[isem].mission_id) {
                         emc.splice([e], 1);
                         localStorage.setItem('emc', JSON.stringify(emc));
                     }
                 }
-            }
+            
 		
 			
 		add_new_emc(openmission, caller, emc_text, keyword, lucation, freetext);
