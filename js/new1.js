@@ -43,7 +43,7 @@ $("body").prepend(`
 	<div class="form-group row">
     
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="Beschreibung / Freitext">
+      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" rows="3" placeholder="Beschreibung / Freitext">
     </div>
   </div>
 </form>
