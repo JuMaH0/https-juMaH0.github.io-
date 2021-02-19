@@ -72,7 +72,7 @@ $("body").prepend(`
 $("body").on("click", "#saveemc", function () {
        var save = {};
 	   
-        keyword = document.getElementById('keyword').value;
+        var keyword = document.getElementById('keyword').value;
         save.caller = $('#caller')[0];
         save.lucation = $('#location')[0];
         save.freetext = $('#freetext')[0];
