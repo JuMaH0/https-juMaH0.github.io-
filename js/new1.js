@@ -22,109 +22,45 @@ $("body").prepend(`
 
 
 
-            <div class="form-group col-md-12">
+          <input class="form-control" type="text" placeholder="Default input">
+<input class="form-control" type="text" placeholder="Default input">
 
+<input class="form-control" type="text" placeholder="Default input">
+   
 
+<div class="form-group">
+    <label for="exampleFormControlTextarea1">Example textarea</label>
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  </div>
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxshowmap">
 
-                     <label class="form-check-label" for="cbxshowmap"> Einsätze auf Karte ausblenden
 
-            </div>
+   
 
 
 
-   <div class="form-group col-md-12">
 
 
+   
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxinvolved" >
 
-                     <label class="form-check-label" for="cbxinvolved"> Einsätze <b>MIT</b> eigener Beteiligung anzeigen
 
-            </div>
 
 
+          
 
 
 
-   <div class="form-group col-md-12">
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxuninvolved" >
 
-                <label class="form-check-label" for="cbxuninvolved"> Einsätze <b>OHNE</b> eigener Beteiligung anzeigen
 
-            </div>
 
 
 
 
 
-   <div class="form-group col-md-12">
-
-
-
-                <input class="form-check-input" type="checkbox" value="" id="cbxpatients" >
-
-                <label class="form-check-label" for="cbxpatients"> Einsätze mit Patienten anzeigen
-
-            </div>
-
-
-
-
-
-           <div class="form-group col-md-12">
-
-
-
-                <input class="form-check-input" type="checkbox" value="" id="cbxparamedic" >
-
-                <label class="form-check-label" for="cbxparamedic"> Einsätze anzeigen wenn RD benötigt
-
-            </div>
-
-
-
-           <div class="form-group col-md-12">
-
-
-
-                <input class="form-check-input" type="checkbox" value="" id="cbxrecruitment" >
-
-                <label class="form-check-label" for="cbxrecruitment"> Einsätze anzeigen wenn Verstärkung benötigt
-
-            </div>
-
-
-
-
-
-           <div class="form-group col-md-12">
-
-
-
-                <input class="form-check-input" type="checkbox" value="" id="cbxradio" >
-
-                <label class="form-check-label" for="cbxradio"> Einsätze mit Sprechwunsch anzeigen
-
-            </div>
-
-
-
-
-
-<div class="form-group col-md-12">
-
-
-
-                <input class="form-check-input" type="checkbox" value="" id="cbxminimize">
-
-                <label class="form-check-label" for="ccbxminimize"> Einsatzliste  minimalisieren ( <a href="https://github.com/JuMaH0/lss/raw/master/minimizesh.user.js">Script MinimizeSH benötigt</a> )
-
-            </div>
 
 
 
