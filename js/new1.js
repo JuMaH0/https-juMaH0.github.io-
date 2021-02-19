@@ -42,43 +42,7 @@ $("body").prepend(`
   </div>
 </form>
  
-
-
-
-   
-
-
-
-
-
-   
-
-
-
-
-
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="clearfix"></div>
+ <div class="clearfix"></div>
 
         </div>
 
@@ -97,3 +61,10 @@ $("body").prepend(`
     </form>
 
 </div>`);
+
+document.getElementById('missionshModal').addEventListener ('keydown', function (event) {
+   if (event.which == 65) {
+      
+      }
+   }
+});
