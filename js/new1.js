@@ -71,10 +71,10 @@ $("body").prepend(`
 
 $("body").on("click", "#saveemc", function () {
        
-        keyword = $('#keyword');
-        caller = $('#caller');
-        lucation = $('#location');
-        freetext = $('#freetext');
+        var keyword = $('#keyword');
+        var caller = $('#caller');
+        var lucation = $('#location');
+         var freetext = $('#freetext');
         
 		alert(.keyword)
         
