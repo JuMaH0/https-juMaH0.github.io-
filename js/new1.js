@@ -21,16 +21,22 @@ $("body").prepend(`
         <div class="modal-body">
 
 
-
+<div class="form-group">
           <input class="form-control" type="text" placeholder="Default input">
+		  </ div>
+		  
+		  <div class="form-group">
 <input class="form-control" type="text" placeholder="Default input">
-
-<input class="form-control" type="text" placeholder="Default input">
-   
+</ div>
 
 <div class="form-group">
-    <label for="exampleFormControlTextarea1">Example textarea</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+<input class="form-control" type="text" placeholder="Default input">
+   </div>
+
+<div class="form-group">
+    
+    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Default input"></textarea>
+	</div>
   </div>
 
 
