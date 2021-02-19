@@ -37,7 +37,7 @@ $("body").prepend(`
   <div class="form-group row">
     
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-lg" id="location" placeholder="Ort">
+      <input type="text" class="form-control form-control-lg" id="lucation" placeholder="Ort">
     </div>
 	</div>
 	
