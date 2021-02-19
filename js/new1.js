@@ -23,21 +23,27 @@ $("body").prepend(`
 
 <form>
   <div class="form-group row">
-    <label for="colFormLabelSm" class="col-sm-2 col-form-label col-form-label-sm">Email</label>
+    
     <div class="col-sm-10">
       <input type="text" class="form-control form-control-sm" id="colFormLabelSm" placeholder="Stichwort">
     </div>
   </div>
   <div class="form-group row">
-    <label for="colFormLabel" class="col-sm-2 col-form-label">Email</label>
+    
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="colFormLabel" placeholder="col-form-label">
+      <input type="text" class="form-control" id="colFormLabel" placeholder="Melder">
     </div>
   </div>
   <div class="form-group row">
-    <label for="colFormLabelLg" class="col-sm-2 col-form-label col-form-label-lg">Email</label>
+    
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="col-form-label-lg">
+      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="Ort">
+    </div>
+	
+	<div class="form-group row">
+    
+    <div class="col-sm-10">
+      <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="Beschreibung / Freitext">
     </div>
   </div>
 </form>
