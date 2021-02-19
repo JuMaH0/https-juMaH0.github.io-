@@ -25,7 +25,7 @@ $("body").prepend(`
   <div class="form-group row">
     <label for="colFormLabelSm" class="col-sm-2 col-form-label col-form-label-sm">Email</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control form-control-sm" id="colFormLabelSm" placeholder="col-form-label-sm">
+      <input type="text" class="form-control form-control-sm" id="colFormLabelSm" placeholder="Stichwort">
     </div>
   </div>
   <div class="form-group row">
