@@ -73,11 +73,11 @@ $("body").on("click", "#saveemc", function () {
        
 	   
         var keyword = document.getElementById('keyword').value;
-        var caller = ;
-        var lucation = ;
-        var freetext = ;
+        var caller = document.getElementById('caller').value;;
+        var lucation = document.getElementById('lucation').value;;
+        var freetext = document.getElementById('freetext').value;;
         
-		alert(keyword)
+	
         
         alert('Einsatz wird angelegt!');
         window.location.reload();
