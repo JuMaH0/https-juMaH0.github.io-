@@ -26,7 +26,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxshowmap" ${showmapchecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxshowmap">
 
                      <label class="form-check-label" for="cbxshowmap"> Einsätze auf Karte ausblenden
 
@@ -38,7 +38,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxinvolved" ${involvedchecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxinvolved" >
 
                      <label class="form-check-label" for="cbxinvolved"> Einsätze <b>MIT</b> eigener Beteiligung anzeigen
 
@@ -52,7 +52,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxuninvolved" ${uninvolvedchecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxuninvolved" >
 
                 <label class="form-check-label" for="cbxuninvolved"> Einsätze <b>OHNE</b> eigener Beteiligung anzeigen
 
@@ -66,7 +66,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxpatients" ${patientschecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxpatients" >
 
                 <label class="form-check-label" for="cbxpatients"> Einsätze mit Patienten anzeigen
 
@@ -80,7 +80,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxparamedic" ${paramedicchecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxparamedic" >
 
                 <label class="form-check-label" for="cbxparamedic"> Einsätze anzeigen wenn RD benötigt
 
@@ -92,7 +92,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxrecruitment" ${recruitmentchecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxrecruitment" >
 
                 <label class="form-check-label" for="cbxrecruitment"> Einsätze anzeigen wenn Verstärkung benötigt
 
@@ -106,7 +106,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxradio" ${radiochecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxradio" >
 
                 <label class="form-check-label" for="cbxradio"> Einsätze mit Sprechwunsch anzeigen
 
@@ -120,7 +120,7 @@ $("body").prepend(`
 
 
 
-                <input class="form-check-input" type="checkbox" value="" id="cbxminimize" ${minimizechecked}>
+                <input class="form-check-input" type="checkbox" value="" id="cbxminimize">
 
                 <label class="form-check-label" for="ccbxminimize"> Einsatzliste  minimalisieren ( <a href="https://github.com/JuMaH0/lss/raw/master/minimizesh.user.js">Script MinimizeSH benötigt</a> )
 
