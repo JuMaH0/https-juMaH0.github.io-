@@ -62,9 +62,5 @@ $("body").prepend(`
 
 </div>`);
 
-document.getElementById('missionshModal').addEventListener ('keydown', function (event) {
-   if (event.which == 65) {
-      
-      }
-   }
+
 });
