@@ -72,12 +72,12 @@ $("body").prepend(`
 $("body").on("click", "#saveemc", function () {
        var save = {};
 	   
-        save.keyword = $('#keyword')[0];
+        keyword = document.getElementById('keyword').value;
         save.caller = $('#caller')[0];
         save.lucation = $('#location')[0];
         save.freetext = $('#freetext')[0];
         
-		alert(save.keyword)
+		alert(keyword)
         
         alert('Einsatz wird angelegt!');
         window.location.reload();
