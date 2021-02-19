@@ -76,7 +76,7 @@ $("body").on("click", "#saveemc", function () {
         var lucation = $('#location');
          var freetext = $('#freetext');
         
-		alert(.keyword)
+		alert(keyword)
         
         alert('Einsatz wird angelegt!');
         window.location.reload();
