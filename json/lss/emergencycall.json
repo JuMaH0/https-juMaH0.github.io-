@@ -18,6 +18,9 @@
             "mission_id": "45",
             "mission_text": ["meine Nase blutet und das hört einfach nicht mehr auf, können Sie bitten jemanden vorbei schicken?", "die Nase meines Mannes blutet ununterbrochen!", "Meine Tochter ist beim spielen auf den Kopf gefallen, jetzt hört ihre Nase einfach nicht mehr auf zu bluten, bitte schicken Sie Hilfe!"]
         }, {
+            "mission_id": "90",
+            "mission_text": ["mein Nachbar beschallt die ganze Straße mit seiner Musik, schicken Sie jemanden der für Ruhe sorgt!"]
+        }, {
             "mission_id": "108",
             "mission_text": ["schicken Sie schnell einen RTW, ich glaub das Baby kommt!"]
         }, {
