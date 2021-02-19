@@ -97,7 +97,7 @@ $("body").on("click", "#saveemc", function () {
 		var address = $('#mission_general_info').children('small').text().split('|')[0].trim();
 		
 		
-                for (var isem = 0; isem < checkemc.length; isem++) {
+                for (var isem = 0; isem < emc.length; isem++) {
                     if (openmission === checkemc[isem].mission_id) {
                         emc.splice([e], 1);
                         localStorage.setItem('emc', JSON.stringify(emc));
