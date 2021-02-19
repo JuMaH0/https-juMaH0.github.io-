@@ -39,6 +39,7 @@ $("body").prepend(`
     <div class="col-sm-10">
       <input type="text" class="form-control form-control-lg" id="colFormLabelLg" placeholder="Ort">
     </div>
+	</div>
 	
 	<div class="form-group row">
     
