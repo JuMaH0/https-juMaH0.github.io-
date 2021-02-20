@@ -18,7 +18,7 @@ $("body").prepend(`
 
         </div>
 
-        <div class="modal-body">
+        <div class="modal-body" style="align-items: center;">
 
 
 <form>
