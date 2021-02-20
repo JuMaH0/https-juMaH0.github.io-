@@ -18,32 +18,32 @@ $("body").prepend(`
 
         </div>
 
-        <div class="modal-body" style="align-items: center;">
+        <div class="modal-body">
 
 
 <form>
   <div class="form-group row">
     
-    <div class="col-sm-10">
+    <div class="col-sm-12">
       <input type="text" class="form-control form-control-sm" id="keyword" placeholder="Stichwort">
     </div>
   </div>
   <div class="form-group row">
     
-    <div class="col-sm-10">
+    <div class="col-sm-12">
       <input type="text" class="form-control" id="caller" placeholder="Melder">
     </div>
   </div>
   <div class="form-group row">
     
-    <div class="col-sm-10">
+    <div class="col-sm-12">
       <input type="text" class="form-control form-control-lg" id="lucation" placeholder="Ort">
     </div>
 	</div>
 	
 	<div class="form-group row">
     
-    <div class="col-sm-10">
+    <div class="col-sm-12">
        <textarea class="form-control" id="freetext" rows="3"  placeholder="Freitext"></textarea>
     </div>
   </div>
